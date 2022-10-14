@@ -1,7 +1,5 @@
 import java.util.Map;
 
-public class Candy {
-
     public class Candy extends Item {
         public String sound = "Munch Munch, Yum!";
 
@@ -15,4 +13,3 @@ public class Candy {
         }
     }
 
-}
